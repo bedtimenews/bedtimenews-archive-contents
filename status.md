@@ -2,11 +2,16 @@
 title: 编辑状态
 description: 当前状态及编辑计划
 published: true
-date: 2022-11-23T12:50:00.724Z
+date: 2022-11-23T19:21:07.288Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-20T07:07:29.078Z
 ---
+
+> 目前我们的目标是尽快上线全部文档，因此文档格式还存在一定问题。
+> 我们计划在全部文档上线完毕后逐一校对和优化每一期文稿。
+{.is-warning}
+
 
 # Tabs {.tabset}
 ## 睡前消息

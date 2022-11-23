@@ -2,7 +2,7 @@
 title: 【睡前消息xxx】视频标题上半句，视频标题下半句
 description: b站视频动态内容。
 published: false
-date: 2022-11-23T13:27:59.342Z
+date: 2022-11-23T13:29:21.952Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-23T11:39:43.881Z
@@ -29,21 +29,20 @@ dateCreated: 2022-11-23T11:39:43.881Z
 2. 参照已存在文档和本模板创建元信息。
 3. 将该期视频在B站和YouTube的ID分别替换对应iframe中的"BV号"和"YouTubeVID"。
 -->
-# 【睡前消息xxx】视频标题上半句，视频标题下半句
-## Tabs {.tabset}
-### B站
+# Tabs {.tabset}
+## B站
 <div style="position: relative; padding: 30% 45%;">
 <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?&bvid=BV号&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div>
 
-### YouTube
+## YouTube
 <div style="position: relative; padding-bottom: calc(56.25% * 0.75); /* 16:9 */ width: 75%; height: 0;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube-nocookie.com/embed/YouTubeVID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
-### 播客
+## 播客
 <div class="podcast-player"></div>
 
-## 
+# 
 
 文字稿内容

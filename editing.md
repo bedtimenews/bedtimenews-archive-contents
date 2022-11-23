@@ -2,7 +2,7 @@
 title: 协作编辑
 description: 和我们一起整理睡前消息的文稿及相关信息
 published: true
-date: 2022-11-23T11:57:26.342Z
+date: 2022-11-23T12:44:47.895Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T13:39:19.815Z
@@ -13,7 +13,11 @@ dateCreated: 2022-11-19T13:39:19.815Z
 2. 填写[这个收集表](https://forms.office.com/r/bmFjJpznxt)
 3. 等待回复（可主动向`admin@eggroll.club`发邮件/在本页评论催促）。
 4. 获得编辑权限后，在[编辑状态](/status)页中查看还未完成整理的文稿并开始整理。
-# 格式要求
+# 要求
+> 由于睡前消息编辑部不提供参考信息文字稿，你需要自己将参考消息转为文稿并校对。
+> 建议优先整理往期文稿与每日新闻。
+{.is-warning}
+
 ## 路径
 1. **往期文稿**的路径格式应为`/archive/main/{当前期数所在的以100划分的范围}/期数`。
 例如：第123期的路径格式应为`/archive/main/101-200/123`

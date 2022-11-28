@@ -9,6 +9,6 @@
 3. 开始编辑。
 
 ## 从GitHub编辑
-1. Fork本仓库（如果您希望同时进行不同栏目的编辑，建议新建不同分支进行）
+1. Fork本仓库
 2. 参考[协作编辑](https://archive.bedtime.news/editing)页面的说明新增或修改内容。
 3. 在本仓库发起Pull Request

@@ -2,7 +2,7 @@
 title: 欢迎
 description: 欢迎访问《睡前消息》在线文稿
 published: true
-date: 2022-11-29T10:52:45.556Z
+date: 2022-11-29T10:58:37.895Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T12:07:17.505Z
@@ -13,6 +13,12 @@ dateCreated: 2022-11-19T12:07:17.505Z
 
 
 你可以在这里查阅《睡前消息》往期文稿及相关信息。
+
+# 阅读文稿
+- [**睡前消息**](/index/main/index)
+- [**睡前每日新闻**](/index/daily/index)
+- [**参考信息**](/index/reference/index)
+{.links-list}
 
 # 其它链接
 - [**《蛋卷俱乐部》在线文稿**](https://eggroll.club)

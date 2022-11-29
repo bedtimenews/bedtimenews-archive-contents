@@ -2,7 +2,7 @@
 title: 播客
 description: 《睡前消息》系列播客
 published: true
-date: 2022-11-21T11:03:31.939Z
+date: 2022-11-29T10:36:09.056Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-21T11:03:31.939Z
@@ -22,12 +22,8 @@ dateCreated: 2022-11-21T11:03:31.939Z
 
 ## 参考信息
 
-> 此栏目的播客版将在《参考消息》正式版开始更新后上线。
-{.is-info}
-
-
 ### 内容
-微信公众号《睡前消息编辑部》的每日新闻。
+睡前消息晨读栏目《参考信息》的音频
 
 ### 地址
 - 在线收听：https://bedtime.news/podcasts/reference/

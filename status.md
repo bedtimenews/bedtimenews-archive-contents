@@ -2,7 +2,7 @@
 title: 编辑状态
 description: 当前状态及编辑计划
 published: true
-date: 2022-11-29T12:16:37.799Z
+date: 2022-11-29T12:17:40.947Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-20T07:07:29.078Z
@@ -29,6 +29,10 @@ dateCreated: 2022-11-20T07:07:29.078Z
 
 > `2022` 年 `11` 月 `20` 日及之后的内容已完成初步整理，正在跟随栏目更新。
 {.is-success}
+
+> 目前暂无计划整理之前的**每日新闻**
+{.is-danger}
+
 
 # 参考消息
 

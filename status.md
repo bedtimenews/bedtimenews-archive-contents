@@ -2,7 +2,7 @@
 title: 编辑状态
 description: 当前状态及编辑计划
 published: true
-date: 2022-11-29T12:17:40.947Z
+date: 2022-11-29T12:19:35.356Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-20T07:07:29.078Z
@@ -24,6 +24,7 @@ dateCreated: 2022-11-20T07:07:29.078Z
 ## 整理状态
 
 整理状态详见[目录](/index/main/index)。红色代表没有内容，蓝色代表已有内容。
+如果你正在参与[协作编辑](/editing)，只需点击缺失的内容（红色部分）即可创建对应页面。
 
 # 每日新闻
 

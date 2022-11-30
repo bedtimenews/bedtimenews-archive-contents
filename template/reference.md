@@ -1,8 +1,8 @@
 ---
-title: 【参考信息{期号}】xxxx年xx月xx日
+title: 【参考信息{期号}】xxxx-xx-xx
 description: 
 published: false
-date: 2022-11-29T13:41:30.579Z
+date: 2022-11-30T19:46:51.574Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-23T12:38:04.139Z
@@ -29,7 +29,6 @@ dateCreated: 2022-11-23T12:38:04.139Z
 2. 参照已存在文档和本模板创建元信息。
 3. 将该期视频在B站和YouTube的ID分别替换对应iframe中的"BV号"和"YouTubeVID"。
 -->
-# 【参考信息{期号}】xxxx-xx-xx
 ## Tabs {.tabset}
 ### B站
 <div style="position: relative; padding: 30% 45%;">

@@ -2,7 +2,7 @@
 title: 欢迎
 description: 欢迎访问《睡前消息》在线文稿
 published: true
-date: 2022-11-29T13:37:29.732Z
+date: 2022-12-02T12:54:11.568Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T12:07:17.505Z
@@ -33,6 +33,6 @@ dateCreated: 2022-11-19T12:07:17.505Z
 
 # 文稿下载
 - [**睡前消息文稿打包（ `1`-`500` 期）** *其中1 - 451 期由官方整理打包*](https://www.123pan.com/s/BrA8Vv-4R4Gv)
-- [**睡前消息文稿分期（ `1`-`515` 期）** *可直接下载单期文稿*](https://www.123pan.com/s/BrA8Vv-xR4Gv)
+- [**睡前消息文稿分期（ `1`-`518` 期）** *可直接下载单期文稿*](https://www.123pan.com/s/BrA8Vv-xR4Gv)
 - [**蛋卷俱乐部分期（`0` - `9` 期）** *《蛋卷俱乐部》PDF版（原版）*](https://www.123pan.com/s/BrA8Vv-pR4Gv)
 {.links-list}

@@ -2,7 +2,7 @@
 title: 欢迎
 description: 欢迎访问《睡前消息》在线文稿
 published: true
-date: 2022-12-28T21:01:33.956Z
+date: 2022-12-29T00:40:42.786Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T12:07:17.505Z
@@ -30,6 +30,6 @@ dateCreated: 2022-11-19T12:07:17.505Z
 - [**《蛋卷俱乐部》在线文稿**](https://eggroll.club)
 - [**《睡前消息》导航页** *《睡前消息》官方平台链接及由本站整理维护的相关在线服务*](https://bedtime.news)
 - [**睡前消息系列播客**](/podcasts)
-- [**资料下载** *睡前消息、蛋卷俱乐部文稿打包下载/单期下载及附加资料*](https://files.bedtime.news)
+- [**资料下载** *睡前消息、蛋卷俱乐部文稿 / 附加资料 / 网页存档*](https://files.bedtime.news)
 - [**附属论坛** *eggroll.club附属论坛*](https://forum.eggroll.club)
 {.links-list}

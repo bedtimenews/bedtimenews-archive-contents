@@ -2,7 +2,7 @@
 title: 欢迎
 description: 欢迎访问《睡前消息》在线文稿
 published: true
-date: 2022-12-29T00:40:42.786Z
+date: 2022-12-29T00:46:47.588Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T12:07:17.505Z
@@ -11,9 +11,13 @@ dateCreated: 2022-11-19T12:07:17.505Z
 > 文稿内容尚未整理完成。
 {.is-warning}
 
+> 如果文稿中的网页链接无法访问，可尝试在评论区留言/联系我们要求补链。我们会尝试将失效链接替换为本站存档或其它来源的可用页面。
+{.is-info}
+
+
 
 你可以在这里查阅《睡前消息》文字版（往期文稿）及相关信息。
-联系我们：[Telegram通知频道](https://t.me/bedtimenewsarchive) / [E-mail](mailto:admin@eggroll.club)
+**联系我们**：[Telegram通知频道](https://t.me/bedtimenewsarchive) / [E-mail](mailto:admin@eggroll.club)
 
 # 阅读文稿
 - [**睡前消息**](main)

@@ -2,7 +2,7 @@
 title: 播客
 description: 《睡前消息》系列播客
 published: true
-date: 2022-11-29T10:36:09.056Z
+date: 2023-01-18T03:42:09.090Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-21T11:03:31.939Z
@@ -18,7 +18,8 @@ dateCreated: 2022-11-21T11:03:31.939Z
 ### 地址
 - 在线收听：https://bedtime.news/podcasts/main/
 - 通过RSS订阅：https://bedtime.news/podcasts/main/feed.rss
-- 其它在线平台：正在准备
+- 其它在线平台
+	- Google Podcast: https://podcasts.google.com/feed/aHR0cHM6Ly9iZWR0aW1lLm5ld3MvcG9kY2FzdHMvbWFpbi9mZWVkLnJzcw
 
 ## 参考信息
 
@@ -28,7 +29,8 @@ dateCreated: 2022-11-21T11:03:31.939Z
 ### 地址
 - 在线收听：https://bedtime.news/podcasts/reference/
 - 通过RSS订阅：https://bedtime.news/podcasts/reference/feed.rss
-- 其它在线平台：正在准备
+- 其它在线平台
+	- Google Podcast: https://podcasts.google.com/feed/aHR0cHM6Ly9iZWR0aW1lLm5ld3MvcG9kY2FzdHMvcmVmZXJlbmNlL2ZlZWQucnNz
 
 ## 睡前每日新闻
 
@@ -42,7 +44,8 @@ dateCreated: 2022-11-21T11:03:31.939Z
 ### 地址
 - 在线收听：https://bedtime.news/podcasts/daily/
 - 通过RSS订阅：https://bedtime.news/podcasts/daily/feed.rss
-- 其它在线平台：正在准备
+- 其它在线平台
+	- Google Podcast: https://podcasts.google.com/feed/aHR0cHM6Ly9iZWR0aW1lLm5ld3MvcG9kY2FzdHMvZGFpbHkvZmVlZC5yc3M
 
 # 说明
 ## 时效性

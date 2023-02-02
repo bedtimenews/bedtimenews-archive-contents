@@ -2,7 +2,7 @@
 title: 播客
 description: 《睡前消息》系列播客
 published: true
-date: 2023-01-18T03:42:09.090Z
+date: 2023-02-02T13:16:18.901Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-21T11:03:31.939Z
@@ -34,8 +34,8 @@ dateCreated: 2022-11-21T11:03:31.939Z
 
 ## 睡前每日新闻
 
-> 此栏目之后不确定是否继续维护，如果你对此栏目的播客版有需求，请务必通过评论区或电子邮件让我们了解这一点。
-{.is-warning}
+> 此栏目已于2023年2月1日停止维护。
+{.is-danger}
 
 
 ### 内容

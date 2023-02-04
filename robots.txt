@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /a
+Disallow: /login
+Disallow: /register
+Disallow: /p
+
+Sitemap: https://archive.bedtime.news/sitemap.xml

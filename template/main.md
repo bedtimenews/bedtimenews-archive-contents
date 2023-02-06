@@ -2,7 +2,7 @@
 title: 【睡前消息xxx】视频标题上半句，视频标题下半句
 description: b站视频动态内容。
 published: false
-date: 2022-11-29T13:40:48.890Z
+date: 2023-02-06T11:55:44.010Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-23T11:39:43.881Z
@@ -15,11 +15,9 @@ dateCreated: 2022-11-23T11:39:43.881Z
 需要修改/补充下列信息：
 1. 在页面-页面信息中，按照默认值提示修改标题、描述。
 2. 在页面-页面信息中，修改路径。参照标准："/archive/main/{当前期数所在的以100划分的范围}/期数"。示例："/archive/main/501-600/515"
-3. （可选）在页面-脚本中，修改audio下子项的值。如果你不会修改，可以留给管理员。
-4. 修改大标题
-5. 在“B站”三级标题下的iframe内将"BV号"替换为当期视频的BV号，在"YouTube"三级标题下的iframe内将"YouTubeVID"替换为当期YouTube视频的vid。（例如：对于链接https://www.youtube.com/watch?v=mxm7Vf6YPjo，这个视频的vid就是mxm7Vf6YPjo）
+3. 在“B站”二级标题下的iframe内将"BV号"替换为当期视频的BV号，在"YouTube"二级标题下的iframe内将"YouTubeVID"替换为当期YouTube视频的vid。（例如：对于链接https://www.youtube.com/watch?v=mxm7Vf6YPjo，这个视频的vid就是mxm7Vf6YPjo）
 6. 编辑正文
-7. 一切均编辑好后，勾选页面-定时任务-发布状态中的“已发布”，删去本段注释，保存页面。
+7. 一切均编辑好后，删去本段注释，保存页面。
 
 如果你使用了可视化编辑器：
 你只需完善标题和正文，在正文前另起一行，注明该期B站和YouTube视频地址即可。

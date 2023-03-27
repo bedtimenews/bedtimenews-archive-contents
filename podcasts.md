@@ -2,13 +2,17 @@
 title: 播客
 description: 《睡前消息》系列播客
 published: true
-date: 2023-02-03T15:44:30.095Z
+date: 2023-03-27T10:26:39.511Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-21T11:03:31.939Z
 ---
 
-目前，bedtime.news正在维护下列栏目播客
+> 因站点维护计划变更，睡前消息系列播客暂停维护。您可暂时通过哔哩哔哩“听视频”或YouTube后台播放（需第三方软件或YouTube Premium）等功能实现仅收听音频的效果。
+{.is-danger}
+
+
+~~目前，bedtime.news正在维护下列栏目播客~~
 
 # Tabs {.tabset}
 ## 睡前消息

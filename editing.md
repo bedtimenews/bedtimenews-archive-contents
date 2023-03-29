@@ -2,7 +2,7 @@
 title: 协作编辑
 description: 和我们一起整理睡前消息的文稿及相关信息
 published: true
-date: 2022-11-29T13:40:04.999Z
+date: 2023-03-29T00:53:37.997Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T13:39:19.815Z
@@ -11,7 +11,7 @@ dateCreated: 2022-11-19T13:39:19.815Z
 # 获取编辑权限
 1. 在[登录页](https://archive.bedtime.news/login)创建一个账户并登录（可以通过GitHub注册）。
 2. 填写[这个收集表](https://forms.office.com/r/bmFjJpznxt)
-3. 等待回复（可主动向`admin@eggroll.club`发邮件/在本页评论催促）。
+3. 等待回复（可在本页评论催促）。
 4. 获得编辑权限后，在[编辑状态](/status.md)页中查看还未完成整理的文稿并开始整理。
 # 要求
 > 由于睡前消息编辑部不提供参考信息文字稿，你需要自己将参考消息转为文稿并校对。
@@ -34,17 +34,17 @@ dateCreated: 2022-11-19T13:39:19.815Z
 ### 上传方式
 图床支持如下上传方式：
 1. 访问图床管理界面直接上传
-2. 通过api上传
+2. 通过API上传
 
 详细说明见邮件回复。
 
 ## 文件格式
-1. 如果你通过本站进行协作，建议使用markdown编辑器整理内容。如果你还未学会使用markdown，可以使用可视化编辑器整理内容。
-2. 如果你通过GitHub进行协作，您**需要**以markdown格式发起Pull request。
+1. 如果你通过本站进行协作，建议使用Markdown编辑器整理内容。如果你还未学会使用Markdown，可以使用可视化编辑器整理内容。
+2. 如果你通过GitHub进行协作，您**需要**以Markdown格式发起Pull request。
 
 ## 内容格式
-1. 与markdown兼容的格式，请直接以markdown格式整理。
-2. 如遇颜色等与markdown不兼容的格式，请通过css实现。如果你没有html/css知识，请在评论区或文件注释中说明未实现的格式。
+1. 与Markdown兼容的格式，请直接以Markdown格式整理。
+2. 如遇颜色等与Markdown不兼容的格式，请通过CSS实现。如果你没有HTML/CSS知识，请在评论区或文件注释中说明未实现的格式。
 ```html
 // 常用css
 <font color=blue>通过颜色名设置文字颜色</font>
@@ -52,8 +52,8 @@ dateCreated: 2022-11-19T13:39:19.815Z
 <font size=3>设置字号</font>
 <u>设置下划线</u>
 ```
-3. 请在开头附上当期视频封面，图片序号为0。封面下方请标明当期哔哩哔哩和YouTube链接。格式为：`[哔哩哔哩]({B站链接}) | [YouTube]({YouTube链接})`。链接不能为短链接(需二次跳转的分享链接）或含跟踪参数的链接。
-4. 静静的发言请以<font color=indigo>靛蓝色</font>标出（`<font color=indigo>静静的话</font>`），当期主讲人和静静以外的发言可以自选颜色标出。
+3. 静静的发言请以<font color=indigo>靛蓝色</font>标出（`<font color=indigo>静静的话</font>`），当期主讲人和静静以外的发言可以自选颜色标出。
+4. 如果要添加当期视频信息,请将开头视频iframe下的`BV号`和`YouTubeVID`分别替换为当期视频的哔哩哔哩BV号和YouTube VID(均可在URL中找到)。如果不会操作，可以不做修改，留待管理员添加。
 
 ## 编辑模板
 你无需每次从头开始。具体的页面编辑流程可参见模板（见侧边栏，以有编辑权限的账户登录可见）。创建新页面时，你可以选择从模板创建，然后定位到指定的模板即可一键生成一期空白文档。

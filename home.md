@@ -2,16 +2,13 @@
 title: 欢迎
 description: 欢迎访问《睡前消息》在线文稿
 published: true
-date: 2023-04-11T08:24:51.209Z
+date: 2023-05-20T19:19:47.689Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T12:07:17.505Z
 ---
 
 > 文稿内容尚未整理完成。欢迎[**查看进度**](status.md)或[**和我们一起编辑**](editing.md)。
-{.is-warning}
-
-> 目前此域名下活跃维护的文稿是首页的飞书在线文稿: https://bedtime.news
 {.is-warning}
 
 > 如果文稿中的网页链接无法访问，可尝试在评论区留言/联系我们要求补链。我们会尝试将失效链接替换为本站存档或其它来源的可用页面。

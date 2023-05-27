@@ -2,7 +2,7 @@
 title: 欢迎
 description: 欢迎访问《睡前消息》在线文稿
 published: true
-date: 2023-05-22T03:40:54.742Z
+date: 2023-05-27T15:13:00.384Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T12:07:17.505Z
@@ -23,7 +23,7 @@ dateCreated: 2022-11-19T12:07:17.505Z
 - [**睡前消息**](main.md)
 - [**每日新闻**](daily.md)
 - [**参考信息**](reference.md)
-- [**直播**](livestream.md)
+- [**直播问答记录**](livestream.md)
 - [**短视频**](shorts.md)
 {.links-list}
 

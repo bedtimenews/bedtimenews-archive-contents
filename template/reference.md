@@ -34,7 +34,7 @@ dateCreated: 2022-11-23T12:38:04.139Z
 </div>
 
 ### YouTube
-<div style="position: relative; padding-bottom: calc(56.25% * 0.75); /* 16:9 */ width: 75%; height: 0;">
+<div style="position: relative; padding: 30% 45%;">
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube-nocookie.com/embed/YouTubeVID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

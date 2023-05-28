@@ -2,7 +2,7 @@
 title: 【睡前消息xxx】视频标题上半句，视频标题下半句
 description: b站视频动态内容。
 published: false
-date: 2023-05-28T18:10:38.688Z
+date: 2023-05-28T18:28:18.568Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-23T11:39:43.881Z
@@ -34,13 +34,13 @@ dateCreated: 2022-11-23T11:39:43.881Z
 </div>
 
 ## YouTube
-<div style="position: relative; padding-bottom: calc(56.25% * 0.75); /* 16:9 */ width: 75%; height: 0;">
-<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube-nocookie.com/embed/YouTubeVID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: calc(62.5% * 0.75); width: 80%; height: 0; margin: 0 auto;">
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube-nocookie.com/embed/YouTubeVID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe>
 </div>
 
 ## 西瓜视频
 <div style="position: relative; padding-bottom: calc(56.25% * 0.75); /* 16:9 */ width: 75%; height: 0;">
-<iframe style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80%; height: 100%;" frameborder="0" src="https://www.ixigua.com/iframe/7238184941660570146?autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
+<iframe style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80%; height: 100%;" frameborder="0" src="https://www.ixigua.com/iframe/西瓜视频ID?autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
 </div>
   
 # 

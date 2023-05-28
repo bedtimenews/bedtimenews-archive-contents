@@ -2,7 +2,7 @@
 title: 【睡前消息xxx】视频标题上半句，视频标题下半句
 description: b站视频动态内容。
 published: false
-date: 2023-05-28T17:17:14.334Z
+date: 2023-05-28T17:18:50.276Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-23T11:39:43.881Z
@@ -39,7 +39,9 @@ dateCreated: 2022-11-23T11:39:43.881Z
 </div>
 
 ## 西瓜视频
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" frameborder="0" src="https://www.ixigua.com/iframe/7238184941660570146?autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: calc(56.25% * 0.75); /* 16:9 */ width: 75%; height: 0;">
+<iframe width="720" height="405" frameborder="0" src="https://www.ixigua.com/iframe/7238184941660570146?autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
+</div>
 
 # 
 

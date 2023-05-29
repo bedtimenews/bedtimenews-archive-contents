@@ -2,7 +2,7 @@
 title: 协作编辑
 description: 和我们一起整理睡前消息的文稿及相关信息
 published: true
-date: 2023-05-29T07:34:42.301Z
+date: 2023-05-29T07:56:13.984Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T13:39:19.815Z
@@ -59,4 +59,14 @@ dateCreated: 2022-11-19T13:39:19.815Z
 ## 编辑模板
 你无需每次从头开始。具体的页面编辑流程可参见模板（见侧边栏，以有编辑权限的账户登录可见）。创建新页面时，你可以选择从模板创建，然后定位到指定的模板即可一键生成一期空白文档。
 如果你从GitHub发起编辑，可在`/template`中找到对应的模板。
+
+## 转载要求
+马督工在微信公众号上提出过转载要求。需要在文章末尾加入马前卒工作室（ID:MQZstudio）的二维码。更多法律风险防范建议，欢迎具有相关背景知识的读者在评论区提出。
+
+~~~txt
+ **遵循著作人[转载要求](https://mp.weixin.qq.com/s/lAykTTrSjDxadBYtOaseOw)，在文章末尾加入马前卒工作室（ID:MQZstudio）的二维码 。** 
+
+![bedtime-QR.jpg](https://img.bedtime.news/2023/05/27/6471cf5822541.jpg)
+~~~
+
 

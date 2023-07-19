@@ -2,7 +2,7 @@
 title: 编辑状态
 description: 当前状态及编辑计划
 published: true
-date: 2023-07-19T10:10:24.168Z
+date: 2023-07-19T12:27:03.080Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-20T07:07:29.078Z
@@ -45,7 +45,7 @@ dateCreated: 2022-11-20T07:07:29.078Z
 # 参考消息
 
 > 所有内容已完成初步整理，正在跟随节目更新。
-> 目前更新至：第 `87` 期
+> 目前更新至：`2023` 年 `7` 月 `19` 日 第 `88` 期
 {.is-success}
 
 # 短视频

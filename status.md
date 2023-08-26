@@ -2,7 +2,7 @@
 title: 编辑状态
 description: 当前状态及编辑计划
 published: true
-date: 2023-08-26T11:30:20.591Z
+date: 2023-08-26T12:25:42.059Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-20T07:07:29.078Z
@@ -26,9 +26,6 @@ dateCreated: 2022-11-20T07:07:29.078Z
 > 反向整理（从第500期开始）已经整理到：第 `300` / `596` 期
 > 总进度 `398` / `596` 期。
 {.is-info}
-
-> 301-312期暂缺少图片（不包括304、311）
-{.is-warning}
 
 ## 整理状态
 

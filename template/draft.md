@@ -1,8 +1,8 @@
 ---
-title: 通用草稿页
+title: 通用文稿页
 description: 
 published: true
-date: 2023-09-04T14:32:55.870Z
+date: 2023-09-04T14:33:17.407Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-04T14:32:13.152Z

@@ -2,7 +2,7 @@
 title: 欢迎
 description: 欢迎访问《睡前消息》在线文稿
 published: true
-date: 2023-09-06T08:26:54.636Z
+date: 2023-09-06T08:35:41.751Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T12:07:17.505Z
@@ -17,24 +17,8 @@ dateCreated: 2022-11-19T12:07:17.505Z
 你可以在这里查阅《睡前消息》文字版（往期文稿）及相关信息。
 **联系我们**：[Telegram通知频道](https://t.me/bedtimenewsarchive)
 
-# 下架合集
-- [**【睡前消息74】李文亮医生去世，我们最愤怒的事是什么？**](main/1-100/74.md)
-- [**【睡前消息140】马前卒暴走，亲眼看看独山县怎么烧掉400亿！周年特辑（上）**](https://archive.bedtime.news/zh/main/101-200/140.md)
-- [**【睡前消息178】政府/企业/农民都没错，但是教师的工资去哪了？**](https://archive.bedtime.news/zh/main/101-200/178.md)
-- [**【睡前消息183】给台湾新党做科普，谈谈什么是”解放“**](https://archive.bedtime.news/zh/main/101-200/183.md)
-- [**【睡前消息353】 28nm光刻机卡住“02专项”，冷静一下也好**](https://archive.bedtime.news/zh/main/301-400/353.md)
-- [**【睡前消息397】解决丰县拐卖事件，你能付多少代价？**](https://archive.bedtime.news/zh/main/301-400/397.md)
-- [**【睡前消息409】和平之后，俄国是“中国的加拿大”？**](https://archive.bedtime.news/zh/main/401-500/409.md)
-- [**【睡前消息524】连花清瘟涨上天，这次不怪以岭药业**](https://archive.bedtime.news/zh/main/501-600/524.md)
-- [**【睡前消息551】你担心金税4期太强，我嫌它还不够强**](https://archive.bedtime.news/zh/main/501-600/551.md)
-- [**【睡前消息565】茅台元宇宙+网易氪金=赌场**](https://archive.bedtime.news/zh/main/501-600/565.md)
-- [**【睡前消息588】城投债四大网红，柳州第一**](https://archive.bedtime.news/zh/main/501-600/588.md)
-
-- [**【参考信息63】淄博取经柳州；两个省会求救**](https://archive.bedtime.news/e/zh/reference/1-100/63)
-{.links-list}
-
-
 # 阅读文稿
+- [**<font color="black">下架合集</font>**](banned.md)
 - [**睡前消息**](main.md)
 - [**每日新闻**](daily.md)
 - [**参考信息**](reference.md)

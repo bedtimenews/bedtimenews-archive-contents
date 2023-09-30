@@ -2,13 +2,13 @@
 title: 高见
 description: 睡前消息编辑部——编辑高流【高见】https://space.bilibili.com/59104725
 published: true
-date: 2023-09-30T14:54:12.604Z
+date: 2023-09-30T14:54:35.777Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T14:10:01.722Z
 ---
 
-> 参考信息为音频转录，经过与原视频字幕同步校正。
+> 【高见】为音频转录，经过与原视频字幕同步校正。
 > 
 > 部分断句、分段可能与原文稿不同。
 {.is-info}

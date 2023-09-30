@@ -2,13 +2,13 @@
 title: 讲点黑话
 description: 睡前消息编辑部——会计黑岛【讲点黑话】https://space.bilibili.com/64219557
 published: true
-date: 2023-09-30T14:54:20.433Z
+date: 2023-09-30T14:54:47.313Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-04T14:14:19.228Z
 ---
 
-> 参考信息为音频转录，经过与原视频字幕同步校正。
+> 【讲点黑话】为音频转录，经过与原视频字幕同步校正。
 > 
 > 部分断句、分段可能与原文稿不同。
 {.is-info}

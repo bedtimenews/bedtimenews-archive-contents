@@ -1,8 +1,8 @@
 ---
 title: 参考信息
-description: 
+description: 睡前消息编辑部——编辑小黛 【参考信息】https://space.bilibili.com/1556651916
 published: true
-date: 2023-09-25T04:19:08.856Z
+date: 2023-09-30T14:53:49.438Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-29T10:52:00.384Z

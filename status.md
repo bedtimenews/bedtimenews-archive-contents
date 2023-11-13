@@ -2,7 +2,7 @@
 title: 编辑状态
 description: 当前状态及编辑计划
 published: true
-date: 2023-11-13T03:07:10.093Z
+date: 2023-11-13T03:07:47.985Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-20T07:07:29.078Z
@@ -34,7 +34,7 @@ dateCreated: 2022-11-20T07:07:29.078Z
 如果你正在参与[协作编辑](/editing.md)，只需点击缺失的内容（红色部分）即可创建对应页面。
 -->
 
-# 参考消息
+# 参考信息
 
 > 所有内容已完成初步整理，存在一定语音识别错误，正在跟随节目更新。
 {.is-success}

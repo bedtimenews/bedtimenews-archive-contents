@@ -1,8 +1,8 @@
 ---
 title: 睡前消息
-description: 睡前消息编辑部——主编马前卒 【睡前消息】https://space.bilibili.com/316568752
+description: 睡前消息编辑部——主编马前卒 【睡前消息】https://space.bilibili.com/316568752【文稿合集】https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=3119370632720400390
 published: true
-date: 2023-09-30T14:55:47.720Z
+date: 2023-11-19T14:25:18.339Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-29T10:42:06.342Z

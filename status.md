@@ -2,7 +2,7 @@
 title: 编辑状态
 description: 当前状态及编辑计划
 published: true
-date: 2023-11-14T16:16:08.782Z
+date: 2023-11-24T08:51:32.989Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-20T07:07:29.078Z
@@ -24,6 +24,9 @@ dateCreated: 2022-11-20T07:07:29.078Z
 {.is-warning}
 
 > 因账号处于禁言状态，590与591期并未发布。
+{.is-warning}
+
+> 673期后，睡前消息编辑部进入寒假状态，睡前消息暂缓更新。
 {.is-warning}
 
 <!--

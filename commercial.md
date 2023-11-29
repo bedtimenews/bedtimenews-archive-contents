@@ -2,7 +2,7 @@
 title: 讲点黑话
 description: 睡前消息编辑部——会计黑岛【讲点黑话】https://space.bilibili.com/64219557
 published: true
-date: 2023-09-30T14:54:47.313Z
+date: 2023-11-29T03:18:51.039Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-04T14:14:19.228Z
@@ -24,11 +24,12 @@ dateCreated: 2023-09-04T14:14:19.228Z
 # 1 - 10
 <!--
 - [**10** **](./commercial/10.md)
-- [**9** **](./commercial/9.md)
-- [**8** **](./commercial/8.md)
-- [**7** **](./commercial/7.md)
-- [**6** **](./commercial/6.md)-->
+- [**9** **](./commercial/9.md)-->
 
+- [**8** *军政府“北洋化”，缅北大败是必然*](./commercial/8.md)
+- [**7** *我的女神很能打，一路打进奥委会*](./commercial/7.md)
+- [**6.5** *后续与回应，哈瑞迪人的故事*](./commercial/6-1.md)
+- [**6** *生育率3.0，就能占稳土地？*](./commercial/6.md)
 - [**5** *中印究竟差几年*](./commercial/5.md)
 - [**4** *老破小自拆自建，谁来都没戏*](./commercial/4.md)
 - [**3** *对台让利时代结束*](./commercial/3.md)

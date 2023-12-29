@@ -43,7 +43,7 @@ dateCreated: 2022-11-19T13:39:19.815Z
 1. 如果你通过本站进行协作，建议使用Markdown编辑器整理内容。如果你还未学会使用Markdown，可以使用可视化编辑器整理内容。
 2. 如果你通过GitHub进行协作，您**需要**以Markdown格式发起Pull request。
 
-## 内容格式要
+## 内容格式要求
 1. 主要页面内容均以 Markdown 格式保存，了解 [Markdown基本语法](https://markdown.com.cn/)。
 2. Markdowon 支持 HTML 和 CSS 的拓展语法，能实现基本语法不支持的效果，如下划线和设置字体颜色。如有想要添加的效果，请在评论区或文件注释中说明未实现的格式，待管理员和编辑人员回复和添加。
 ```html

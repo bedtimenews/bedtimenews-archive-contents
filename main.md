@@ -8,6 +8,10 @@ editor: markdown
 dateCreated: 2022-11-29T10:42:06.342Z
 ---
 
+- [**年度新闻合订本**](./main/annual.md)
+{.links-list}
+
+---
 <!--
 - [**第701-800期**](./main/701-800.md)
 -->

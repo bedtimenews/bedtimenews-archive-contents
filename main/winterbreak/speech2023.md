@@ -2,7 +2,7 @@
 title: 激励草台班子，繁荣中国文化
 description: 马督公参加观察者网2023年终活动的演讲稿，文稿发布于“睡前消息编辑部”公众号。(https://mp.weixin.qq.com/s/_EJFajK3HZGrr4wDDKNKiA)
 published: true
-date: 2024-02-10T03:55:01.871Z
+date: 2024-02-10T03:55:48.754Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T16:51:13.200Z

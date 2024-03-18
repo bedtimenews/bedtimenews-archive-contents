@@ -2,7 +2,7 @@
 title: 高见
 description: 睡前消息编辑部——编辑高流【高见】https://space.bilibili.com/59104725
 published: true
-date: 2024-03-18T05:40:57.133Z
+date: 2024-03-18T05:43:45.626Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T14:10:01.722Z
@@ -46,7 +46,7 @@ dateCreated: 2023-08-17T14:10:01.722Z
 
 # 1 - 10
 
-- [**10.5** *吃饭的时候，给家人聊聊星舰吧*](./opinion/10.5.md)
+- [**10.5** *吃饭的时候，给家人聊聊星舰吧*](./opinion/10-1.md)
 - [**10** *博士生不去企业，大学凭啥对你好？*](./opinion/10.md)
 - [**9** *云南镇雄崩滑灾害回顾分析*](./opinion/9.md)
 - [**8** *马督工的同学，在月球修路*](./opinion/8.md)

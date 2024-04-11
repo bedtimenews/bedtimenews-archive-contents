@@ -2,7 +2,7 @@
 title: 下架合集
 description: B站UP主“马督工”（UID：316568752）视频节目【睡前消息】及“小黛晨读”（UID：1556651916）视频节目【参考信息】下架视频（文稿）汇总
 published: true
-date: 2024-03-09T11:01:12.901Z
+date: 2024-04-11T12:09:01.168Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-06T08:39:22.340Z
@@ -28,4 +28,9 @@ dateCreated: 2023-09-06T08:39:22.340Z
 # 参考信息
 - [**【参考信息63】淄博取经柳州；两个省会求救**](/reference/1-100/63)
 - [**【参考信息216】中央加杠杆；鸟山明去世**](/reference/201-300/216)
+{.links-list}
+
+# 高见
+
+- [**【高见13】淘宝火箭快递，定制圈钱鬼话<font color="orange">（微博）</font>**](./opinion/13.md)
 {.links-list}

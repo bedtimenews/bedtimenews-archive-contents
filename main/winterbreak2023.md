@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-01-10T12:17:04.930Z
 ---
 
-
+- [*纠结清明烧纸，毛主席的“礼”去哪了？*](./winterbreak2023/6.md)
 - [*对付少年杀人案，下限是汉谟拉比法典*](./winterbreak2023/5.md)
 - [*家财万贯 农夫山泉“带毛”不算*](./winterbreak2023/4.md)
 - [*春节高速免费 社会主义羊毛薅秃我自己*](./winterbreak2023/3.md)

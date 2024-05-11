@@ -2,11 +2,15 @@
 title: 欢迎
 description: 欢迎访问《睡前消息》在线文稿
 published: true
-date: 2024-04-28T05:08:18.442Z
+date: 2024-05-11T07:44:25.149Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-19T12:07:17.505Z
 ---
+
+> **临时消息**：本站正在申请爱发电认证，链接： https://afdian.net/a/bedtimenews
+> 更多说明参见[赞助](/funding.md)页面。
+{.is-info}
 
 > 【睡前消息】文稿内容已初步整理完成。如有错误之处请联系有权限人员修改。
 {.is-success}
@@ -16,9 +20,6 @@ dateCreated: 2022-11-19T12:07:17.505Z
 
 > 【每日新闻】暂停更新。
 {.is-warning}
-
-> 如果文稿中的网页链接无法访问，可尝试在评论区留言/联系我们要求补链。我们会尝试将失效链接替换为本站存档或其它来源的可用页面。
-{.is-info}
 
 你可以在这里查阅《睡前消息》文字版（往期文稿）及相关信息。
 **联系我们**：[Telegram通知频道](https://t.me/bedtimenewsarchive)

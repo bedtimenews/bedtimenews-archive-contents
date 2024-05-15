@@ -2,7 +2,7 @@
 title: 讲点黑话
 description: 睡前消息编辑部——会计黑岛【讲点黑话】https://space.bilibili.com/64219557
 published: true
-date: 2024-05-04T10:23:36.713Z
+date: 2024-05-15T16:04:46.300Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-04T14:14:19.228Z
@@ -119,8 +119,8 @@ dateCreated: 2023-09-04T14:14:19.228Z
 # 21 - 30
 
 - [**30** **](./commercial/30.md)
-- [**29** **](./commercial/29.md)
-- [**28** **](./commercial/28.md)-->
+- [**29** **](./commercial/29.md)-->
+- [**28** *送你2万头大象！我不是在开玩笑！*](./commercial/28.md)
 - [**27** *中导逼近中国，美军要打“跳岛战”*](./commercial/27.md)
 - [**26** *房价曲线像日本还是美国？产业和人口说了算*](./commercial/26.md)
 - [**25** *司法解释：全面普及家庭契约？！*](./commercial/25.md)

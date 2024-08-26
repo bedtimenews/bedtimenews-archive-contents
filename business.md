@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2024-08-26T06:40:57.360Z
+date: 2024-08-26T06:41:23.277Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -134,7 +134,7 @@ dateCreated: 2024-08-26T06:13:26.804Z
 - [**10** *九年时间，创造中国首富*](./business/10.md)
 - [**9** *做艺术也能赚钱，黑神话开了个好头*](./business/9.md)
 - [**8** *拼多多=消费降级？弄反了！*](./business/8.md)
-- [**7** **](./business/7.md)
+- [**7** *阿胶股价反弹,人人都是韭菜*](./business/7.md)
 - [**6** *集体企业还没退，只是病休了*](./business/6.md)
 - [**5** *罐车事件，金龙鱼的麻烦是自找的*](./business/5.md)
 - [**4** *深中通道另一侧，是中国经济洼地*](./business/4.md)

@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2024-08-27T11:11:26.618Z
+date: 2024-08-27T13:00:29.083Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -146,7 +146,7 @@ dateCreated: 2024-08-26T06:13:26.804Z
 # 未编号
 
 - [**0** *美图秀秀回来了，还会再走吗？*](./business/0.md)
-- [**-1** *龙舟比赛总伤亡*](./business/-1.md)
-- [**-2** *吉林市举办世界锅包肉大赛*](./business/-2.md)
+- [**-1** *龙舟比赛总伤亡* **<font color="orange">（视频号）</font>**](./business/-1.md)
+- [**-2** *吉林市举办世界锅包肉大赛* **<font color="orange">（视频号）</font>**](./business/-2.md)
 {.links-list}
 

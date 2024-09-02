@@ -2,7 +2,7 @@
 title: 高见
 description: 睡前消息编辑部——编辑高流【高见】https://space.bilibili.com/59104725
 published: true
-date: 2024-08-27T05:18:22.653Z
+date: 2024-09-02T10:16:22.320Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T14:10:01.722Z
@@ -124,8 +124,8 @@ dateCreated: 2023-08-17T14:10:01.722Z
 
 - [**30** **](./opinion/30.md)
 - [**29** **](./opinion/29.md)
-- [**28** **](./opinion/28.md)
-- [**27** **](./opinion/27.md)-->
+- [**28** **](./opinion/28.md)-->
+- [**27** *走出低潮，核电重启*](./opinion/27.md)
 - [**26** *河南法官被刺，基层机械司法*](./opinion/26.md)
 - [**25** *日本为何冒险发布巨震警报？*](./opinion/25.md)
 - [**24** *江苏“限高令”，城市选房指南*](./opinion/24.md)

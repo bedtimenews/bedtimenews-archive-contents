@@ -2,7 +2,7 @@
 title: 讲点黑话
 description: 睡前消息编辑部——会计黑岛【讲点黑话】https://space.bilibili.com/64219557
 published: true
-date: 2024-08-30T11:37:40.937Z
+date: 2024-09-07T14:12:24.519Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-04T14:14:19.228Z
@@ -90,8 +90,8 @@ dateCreated: 2023-09-04T14:14:19.228Z
 
 - [**50** **](./commercial/50.md)
 - [**49** **](./commercial/49.md)
-- [**48** **](./commercial/48.md)
-- [**47** **](./commercial/47.md)-->
+- [**48** **](./commercial/48.md)-->
+- [**47** *“天王”陨落，象棋第一人竟也买分！*](./commercial/47.md)
 - [**46** *印度拿不了金牌，中国进不了世界杯*](./commercial/46.md)
 - [**45** *“丐版昭和”的泰国*](./commercial/45.md)
 - [**44** *委内瑞拉，从没缝好的血管*](./commercial/44.md)

@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2024-09-08T02:59:16.585Z
+date: 2024-09-10T12:37:14.841Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -120,8 +120,8 @@ dateCreated: 2024-08-26T06:13:26.804Z
 - [**20** **](./business/20.md)
 - [**19** **](./business/19.md)
 - [**18** **](./business/18.md)
-- [**17** **](./business/17.md)
-- [**16** **](./business/16.md)-->
+- [**17** **](./business/17.md)-->
+- [**16** *孟加拉成衣业暂时安全*](./business/16.md)
 - [**15** *印度女工少，接不住富士康*](./business/15.md)
 - [**14** *胖东来为什么不扩张*](./business/14.md)
 - [**13** *国产大飞机量产，让空姐脱下高跟鞋*](./business/13.md)

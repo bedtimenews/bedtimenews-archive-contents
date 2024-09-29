@@ -2,7 +2,7 @@
 title: 讲点黑话
 description: 睡前消息编辑部——会计黑岛【讲点黑话】https://space.bilibili.com/64219557
 published: true
-date: 2024-09-20T13:16:33.176Z
+date: 2024-09-29T09:12:15.883Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-04T14:14:19.228Z
@@ -82,13 +82,13 @@ dateCreated: 2023-09-04T14:14:19.228Z
 - [**54** **](./commercial/54.md)
 - [**53** **](./commercial/53.md)
 - [**52** **](./commercial/52.md)
-- [**51** **](./commercial/51.md)
+- [**51** **](./commercial/51.md)-->
 
 {.links-list}
 
 # 41 - 50
 
-- [**50** **](./commercial/50.md)-->
+- [**50** *比韩国总统更危险的宝座*](./commercial/50.md)
 - [**49** *尹锡悦祝贺“韩国学校”夺得甲子园冠军！但队中只有半个韩国人*](./commercial/49.md)
 - [**48** *百年波音，毁于会计*](./commercial/48.md)
 - [**47** *“天王”陨落，象棋第一人竟也买分！*](./commercial/47.md)

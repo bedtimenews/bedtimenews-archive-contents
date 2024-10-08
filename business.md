@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2024-10-05T14:24:27.023Z
+date: 2024-10-08T12:15:34.796Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -105,9 +105,10 @@ dateCreated: 2024-08-26T06:13:26.804Z
 
 - [**30** **](./business/30.md)
 - [**29** **](./business/29.md)
-- [**28** **](./business/28.md)
-- [**27** **](./business/27.md)
-- [**26** **](./business/26.md)-->
+- [**28** **](./business/28.md)-->
+- [**27** *买马达加斯加羊肉 破南半球联盟*](./business/27.md)
+{.links-list}
+<!--- [**26** **](./business/26.md)-->
 - [**25** *一本书了解中国产业当代史*](./business/25.md)
 - [**25-1** *马督工带逛 工博会魔幻游记*](./business/25-1.md)
 - [**24** *技术升级，港交所台风天上班*](./business/24.md)

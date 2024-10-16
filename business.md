@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2024-10-10T12:37:20.265Z
+date: 2024-10-16T15:00:58.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -98,13 +98,13 @@ dateCreated: 2024-08-26T06:13:26.804Z
 - [**34** **](./business/34.md)
 - [**33** **](./business/33.md)
 - [**32** **](./business/32.md)
-- [**31** **](./business/31.md)
+- [**31** **](./business/31.md)-->
 {.links-list}
 
 # 21 - 30
 
-- [**30** **](./business/30.md)
-- [**29** **](./business/29.md)-->
+- [**30** *逃离普华永道后，教你上市公司怎么做账？*](./business/30.md)
+- [**29** *仿制药最强，“药神”印度为什么这次不灵*](./business/29.md)
 - [**28** *允许外资建医院，双轨制到底好不好*](./business/28.md)
 - [**27** *买马达加斯加羊肉 破南半球联盟*](./business/27.md)
 {.links-list}

@@ -2,7 +2,7 @@
 title: 讲点黑话
 description: 睡前消息编辑部——会计黑岛【讲点黑话】https://space.bilibili.com/64219557
 published: true
-date: 2024-10-25T10:29:06.810Z
+date: 2024-11-01T14:19:26.533Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-04T14:14:19.228Z
@@ -77,8 +77,8 @@ dateCreated: 2023-09-04T14:14:19.228Z
 - [**59** **](./commercial/59.md)
 - [**58** **](./commercial/58.md)
 - [**57** **](./commercial/57.md)
-- [**56** **](./commercial/56.md)
-- [**55** **](./commercial/55.md)-->
+- [**56** **](./commercial/56.md)-->
+- [**55** *VIVO计胜印度？真相可能还是“走麦城”*](./commercial/55.md)
 - [**54** *抛弃电视，都是自己作的*](./commercial/54.md)
 - [**53** *“两埃”战争？一亿人对一亿人的生存斗争！*](./commercial/53.md)
 - [**52** *茅台回购股票，不如少酿点老酒*](./commercial/52.md)

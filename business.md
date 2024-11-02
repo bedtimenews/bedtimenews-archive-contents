@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2024-10-31T12:37:17.688Z
+date: 2024-11-02T14:24:35.541Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -89,9 +89,10 @@ dateCreated: 2024-08-26T06:13:26.804Z
 
 # 31 - 40
 
-- [**40** **](./business/40.md)
-- [**39** **](./business/39.md)
-- [**38** **](./business/38.md)-->
+- [**40** **](./business/40.md)-->
+- [**39** *总是中韩大战，别国不玩英雄联盟？*](./business/39.md)
+{.links-list}
+<!--- - [**38** **](./business/38.md)-->
 - [**37** *最“省心”的科技奖 49人各拿300万*](./business/37.md)
 - [**36** *你的家乡，正在变成机械化大农场*](./business/36.md)
 - [**35** *产量稳定，但大闸蟹大降价了？*](./business/35.md)

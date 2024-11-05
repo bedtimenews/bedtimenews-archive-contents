@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2024-11-02T14:24:35.541Z
+date: 2024-11-05T13:58:00.274Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -84,12 +84,12 @@ dateCreated: 2024-08-26T06:13:26.804Z
 - [**44** **](./business/44.md)
 - [**43** **](./business/43.md)
 - [**42** **](./business/42.md)
-- [**41** **](./business/41.md)
+- [**41** **](./business/41.md)-->
 {.links-list}
 
 # 31 - 40
 
-- [**40** **](./business/40.md)-->
+- [**40** *日企集体撤资奥运，工匠精神走不进现代化*](./business/40.md)
 - [**39** *总是中韩大战，别国不玩英雄联盟？*](./business/39.md)
 {.links-list}
 <!--- - [**38** **](./business/38.md)-->

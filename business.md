@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2024-11-23T13:54:37.084Z
+date: 2024-11-26T13:39:57.692Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -75,8 +75,8 @@ dateCreated: 2024-08-26T06:13:26.804Z
 
 # 41 - 50
 
-- [**50** **](./business/50.md)
-- [**49** **](./business/49.md)-->
+- [**50** **](./business/50.md)-->
+- [**49** *赴美IPO失败后转战伦敦，SHEIN上市为何一波三折？*](./business/49.md)
 - [**48** *墙内开花墙外香，SHEIN为何出海成功？*](./business/48.md)
 - [**47** *超越亚马逊，中国最神秘富豪创业史*](./business/47.md)
 - [**46** *盘一盘路跑经济账，城市为什么需要马拉松？*](./business/46.md)

@@ -2,7 +2,7 @@
 title: 讲点黑话
 description: 睡前消息编辑部——会计黑岛【讲点黑话】https://space.bilibili.com/64219557
 published: true
-date: 2024-11-29T12:01:36.678Z
+date: 2024-12-04T11:18:51.877Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-04T14:14:19.228Z
@@ -67,13 +67,13 @@ dateCreated: 2023-09-04T14:14:19.228Z
 - [**64** **](./commercial/64.md)
 - [**63** **](./commercial/63.md)
 - [**62** **](./commercial/62.md)
-- [**61** **](./commercial/61.md)
+- [**61** **](./commercial/61.md)-->
 
 {.links-list}
 
 # 51 - 60
 
-- [**60** **](./commercial/60.md)-->
+- [**60** *尹“卡卡”的三小时政变*](./commercial/60.md)
 - [**59** *特朗普二进宫：忠臣盈朝和“F计划”*](./commercial/59.md)
 - [**58** *马斯克当官*](./commercial/58.md)
 - [**57** *制裁美国无人机*](./commercial/57.md)

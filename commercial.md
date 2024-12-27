@@ -2,7 +2,7 @@
 title: 讲点黑话
 description: 睡前消息编辑部——会计黑岛【讲点黑话】https://space.bilibili.com/64219557
 published: true
-date: 2024-12-27T12:11:48.337Z
+date: 2024-12-27T12:12:19.343Z
 tags: 
 editor: markdown
 dateCreated: 2023-09-04T14:14:19.228Z
@@ -65,7 +65,7 @@ dateCreated: 2023-09-04T14:14:19.228Z
 - [**66** **](./commercial/66.md)
 - [**65** **](./commercial/65.md)
 - [**64** **](./commercial/64.md)-->
-- [**63** *六十年家国：叙利亚复兴党兴亡史（上）*](./commercial/63.md)-->
+- [**63** *六十年家国：叙利亚复兴党兴亡史（上）*](./commercial/63.md)
 - [**62** *韩国“特朗普”要当大统领*](./commercial/62.md)
 - [**61** *弱小不是生存的障碍 傲慢才是*](./commercial/61.md)
 

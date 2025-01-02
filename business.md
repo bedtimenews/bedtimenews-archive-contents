@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2024-12-31T18:59:15.645Z
+date: 2025-01-02T17:13:16.506Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -52,8 +52,8 @@ dateCreated: 2024-08-26T06:13:26.804Z
 - [**68** **](./business/68.md)
 - [**67** **](./business/67.md)
 - [**66** **](./business/66.md)
-- [**65** **](./business/65.md)
-- [**64** **](./business/64.md)-->
+- [**65** **](./business/65.md)-->
+- [**64** *猪圈改成小洋楼，如何科学养猪？*](./business/64.md)
 - [**63** *狂发2亿美元奖金，霉霉背后的明星经济学*](./business/63.md)
 - [**62** *摇粒绒崛起，穷人皮草如何战胜老钱风？*](./business/62.md)
 - [**61** *金龙鱼控股鲁花，没有阴谋论*](./business/61.md)

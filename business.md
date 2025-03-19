@@ -2,7 +2,7 @@
 title: 产经破壁机
 description: 分布式马督工
 published: true
-date: 2025-03-08T11:14:30.071Z
+date: 2025-03-19T10:45:43.108Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-26T06:13:26.804Z
@@ -38,9 +38,9 @@ dateCreated: 2024-08-26T06:13:26.804Z
 - [**88** **](./business/88.md)
 - [**87** **](./business/87.md)
 - [**86** **](./business/86.md)
-- [**85** **](./business/85.md)
-- [**84** **](./business/84.md)
-- [**83** **](./business/83.md)-->
+- [**85** **](./business/85.md)-->
+- [**84** *为什么职场上总会无效内卷？*](./business/84.md)
+- [**83** *为什么DeepSeek是大模型的“安卓时刻”？*](./business/83.md)
 - [**82** *为什么兰州拉面店里，总有个写作业的小孩？*](./business/82.md)
 - [**81** *给狗吃麻辣烫，有什么问题？*](./business/81.md)
 {.links-list}

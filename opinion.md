@@ -2,7 +2,7 @@
 title: 高见
 description: 睡前消息编辑部——编辑高流【高见】https://space.bilibili.com/59104725
 published: true
-date: 2025-08-17T15:13:51.162Z
+date: 2025-08-31T05:01:10.794Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-17T14:10:01.722Z
@@ -101,14 +101,14 @@ dateCreated: 2023-08-17T14:10:01.722Z
 - [**44** **](./opinion/44.md)
 - [**43** **](./opinion/43.md)
 - [**42** **](./opinion/42.md)
-- [**41** **](./opinion/41.md)
+- [**41** **](./opinion/41.md)-->
 
 {.links-list}
 
 # 31 - 40
 
-- [**40** **](./opinion/40.md)
-- [**39** **](./opinion/39.md)-->
+- [**40** *星舰十飞，未竟之路*](./opinion/40.md)
+- [**39** *日企窃密台积电，作案动机为何？*](./opinion/39.md)
 - [**38** *新疆景区吊桥事故回顾*](./opinion/38.md)
 - [**37** *制造“信息茧房”？算法不背这个锅*](./opinion/37.md)
 - [**36** *曼谷塌楼事故浅析*](./opinion/36.md)

@@ -2,7 +2,7 @@
 title: 参考信息
 description: 睡前消息编辑部——编辑小黛 【参考信息】https://space.bilibili.com/1556651916
 published: true
-date: 2026-07-11T02:42:31.404Z
+date: 2026-07-11T02:43:02.412Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-29T10:52:00.384Z
@@ -13,7 +13,7 @@ dateCreated: 2022-11-29T10:52:00.384Z
 > 部分断句、分段可能与原文稿不同。
 {.is-info}
 
-- [**第601-700期**](./reference/501-600.md)
+- [**第601-700期**](./reference/601-700.md)
 - [**第501-600期**](./reference/501-600.md)
 - [**第401-500期**](./reference/401-500.md)
 - [**第301-400期**](./reference/301-400.md)
